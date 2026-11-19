@@ -1,3 +1,5 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) [![rank](https://make.fun/badge/news-image-20261119/jrflasher/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) [![reward](https://make.fun/badge/news-image-20261119/jrflasher/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # The World in One Image — 19 November 2026
 
 Entry for the [make.fun](https://make.fun) bounty
